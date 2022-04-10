@@ -1,0 +1,27 @@
+2022-04-04 22:08:32 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-04 22:08:32 0 [Note] InnoDB: Number of pools: 1
+2022-04-04 22:08:32 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-04-04 22:08:32 0 [Note] InnoDB: Initializing buffer pool, total size = 2147483648, chunk size = 134217728
+2022-04-04 22:08:32 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-04 22:08:32 0 [Note] InnoDB: 128 rollback segments are active.
+2022-04-04 22:08:32 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-04 22:08:32 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-04 22:08:32 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-04-04 22:08:32 0 [Note] InnoDB: 10.6.7 started; log sequence number 41361; transaction id 14
+2022-04-04 22:08:32 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-04 22:08:32 0 [Note] InnoDB: Loading buffer pool(s) from C:\Program Files\MariaDB 10.6\data\ib_buffer_pool
+2022-04-04 22:08:32 0 [Note] Server socket created on IP: '::'.
+2022-04-04 22:08:32 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-04-04 22:08:32 0 [Note] InnoDB: Buffer pool(s) load completed at 220404 22:08:32
+2022-04-04 22:08:32 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe: ready for connections.
+Version: '10.6.7-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-04-05  6:27:20 3 [Warning] Aborted connection 3 to db: 'mydb' user: 'root' host: 'localhost' (Got timeout reading communication packets)
+2022-04-05  6:44:37 5 [Warning] Aborted connection 5 to db: 'mydb' user: 'root' host: 'localhost' (Got timeout reading communication packets)
+2022-04-06  5:33:16 15 [Warning] Aborted connection 15 to db: 'mydb' user: 'root' host: 'localhost' (Got timeout reading communication packets)
+2022-04-06  5:33:29 6 [Warning] Aborted connection 6 to db: 'mydb' user: 'root' host: 'localhost' (Got timeout reading communication packets)
+2022-04-06 23:57:27 17 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2022-04-07  8:54:45 18 [Warning] Aborted connection 18 to db: 'mydb' user: 'root' host: 'localhost' (Got timeout reading communication packets)
+2022-04-07 19:21:40 274 [Warning] Aborted connection 274 to db: 'mydb' user: 'root' host: 'localhost' (Got timeout reading communication packets)
+2022-04-07 19:22:40 276 [Warning] Aborted connection 276 to db: 'mydb' user: 'root' host: 'localhost' (Got timeout reading communication packets)
+2022-04-08  2:37:17 230 [Warning] Aborted connection 230 to db: 'mydb' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-08  2:37:17 234 [Warning] Aborted connection 234 to db: 'mydb' user: 'root' host: 'localhost' (Got an error reading communication packets)
